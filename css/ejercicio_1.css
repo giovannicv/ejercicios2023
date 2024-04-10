@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+}
+
+body {
+    background: yellow;
+}
+
+header {
+    background: orange;
+    width: 100%;
+    height: 100px;
+}
+
+main {
+    background: green;
+    width: 100%;
+    height: 100%;
+}
+
+section {
+    background: blue;
+    width: 70%;
+    height: 100px;
+}
+
+aside {
+    background: rebeccapurple;
+    width: 100%;
+    height: 100px;
+}
+
+footer {
+    background: red;
+    width: 100%;
+    height: 100px;
+}
+
+nav {
+    background: aqua;
+    width: 100%;
+    height: 100px;
+}
